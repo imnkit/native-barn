@@ -1,0 +1,1 @@
+[2017-11-07 10:44:03] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["catalog_category","catalog_product","BLOCK_HTML"],"mode":"matchingAnyTag"},"is_exception":false} []
