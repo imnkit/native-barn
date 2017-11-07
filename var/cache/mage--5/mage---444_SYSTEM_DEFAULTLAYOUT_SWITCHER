@@ -1,0 +1,2 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1510030753;s:6:"expire";d:9999999999;s:4:"tags";s:37:"444_CONFIG_SCOPES,444_CONFIG,444_MAGE";}
+a:1:{s:7:"general";a:9:{s:7:"enabled";s:1:"1";s:21:"default_header_layout";s:15:"header_layout_2";s:22:"default_listing_layout";s:16:"listing_layout_2";s:22:"default_product_layout";s:16:"product_layout_2";s:22:"default_content_layout";s:15:"bike_store_view";s:21:"default_footer_layout";s:15:"footer_layout_2";s:13:"default_theme";s:8:"lingerie";s:16:"default_homepage";s:7:"english";s:14:"frontend_panel";s:1:"1";}}

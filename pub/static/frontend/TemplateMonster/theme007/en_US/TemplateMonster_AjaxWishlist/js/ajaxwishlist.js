@@ -1,0 +1,1 @@
+D:/xamp/htdocs/lok/git-projects/native-barn/app/code/TemplateMonster/AjaxWishlist/view/frontend/web/js/ajaxwishlist.js

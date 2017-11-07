@@ -1,0 +1,241 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1510030803;s:6:"expire";i:1510034403;s:4:"tags";s:194:"444_BLOCK_HTML,444_CATALOG_CATEGORY,444_CATALOG_CATEGORY_129,444_CATALOG_CATEGORY_134,444_CATALOG_CATEGORY_133,444_CATALOG_CATEGORY_132,444_CATALOG_CATEGORY_130,444_CATALOG_CATEGORY_131,444_MAGE";}
+<div class="rd-navbar-panel-canvas"></div>
+            
+    <nav class="navigation" role="navigation">
+        <!-- RD Navbar Toggle -->
+        <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap">
+            <span>
+                <strong>Categories </strong>
+            </span>
+        </button>
+        <!-- END RD Navbar Toggle -->
+        <div class="rd-navbar-nav-wrap">
+            <ul class="rd-navbar-nav">
+                <li  class="level0 nav-1 first level-top  parent"><a href="http://localhost/lok/git-projects/native-barn/bras-bralettes.html"  class="level-top " ><span>Bras &amp; Bralettes</span></a><ul class="level0 submenu rd-navbar-dropdown"><li  class="level1 nav-1-1 first"><a href="http://localhost/lok/git-projects/native-barn/bras-bralettes/bralettes.html" ><span>Bralettes</span></a></li><li  class="level1 nav-1-2"><a href="http://localhost/lok/git-projects/native-barn/bras-bralettes/unlined.html" ><span>Unlined</span></a></li><li  class="level1 nav-1-3"><a href="http://localhost/lok/git-projects/native-barn/bras-bralettes/perfect-coverage.html" ><span>Perfect Coverage</span></a></li><li  class="level1 nav-1-4"><a href="http://localhost/lok/git-projects/native-barn/bras-bralettes/push-up.html" ><span>Push-Up</span></a></li><li  class="level1 nav-1-5"><a href="http://localhost/lok/git-projects/native-barn/bras-bralettes/sports-bras-lm.html" ><span>Sports Bras LM</span></a></li><li  class="level1 nav-1-6 last"><a href="http://localhost/lok/git-projects/native-barn/bras-bralettes/sports-bras.html" ><span>Sports Bras</span></a></li></ul></li><li  class="level0 nav-2 level-top  parent"><a href="http://localhost/lok/git-projects/native-barn/panties.html"  class="level-top " ><span>Panties</span></a><ul class="level0 submenu rd-navbar-dropdown"><li  class="level1 nav-2-1 first"><a href="http://localhost/lok/git-projects/native-barn/panties/cheekies-cheekinis.html" ><span>Cheekies &amp; Cheekinis</span></a></li><li  class="level1 nav-2-2"><a href="http://localhost/lok/git-projects/native-barn/panties/thongs-v-strings.html" ><span>Thongs &amp; V-Strings</span></a></li><li  class="level1 nav-2-3"><a href="http://localhost/lok/git-projects/native-barn/panties/shorties-boyshorts.html" ><span>Shorties &amp; Boyshorts</span></a></li><li  class="level1 nav-2-4"><a href="http://localhost/lok/git-projects/native-barn/panties/bikinis.html" ><span>Bikinis</span></a></li><li  class="level1 nav-2-5 last"><a href="http://localhost/lok/git-projects/native-barn/panties/no-show-seamless.html" ><span>No-Show &amp; Seamless</span></a></li></ul></li><li  class="level0 nav-3 level-top bg-wrap parent"><a href="http://localhost/lok/git-projects/native-barn/lingerie.html"  class="level-top bg-wrap" ><span>Lingerie</span></a>
+<!-- For sidebar menu: add class "in-sidebar" to "tm-megamenu" div -->
+
+<div class="tm-megamenu megamenu-wrapper submenu  rd-navbar-megamenu">
+        <div class="container ">
+            <div class="row">
+    <div class="col-sm-3 ">
+    <div class="static-block">
+    <div class="mm-text">
+    Find your perfect fit with silhouettes designed for both function and fashion. Magetique offers an extensive range of styles including soft bras, bandeaus, strapless bras and underwire bras.
+</div></div></div><div class="col-sm-3 ">
+    <ul class="mm-submenu level1">
+    <li class="item ui-menu-item">
+                <a href="http://localhost/lok/git-projects/native-barn/lingerie/babydolls-slips.html">
+                        Babydolls & Slips        </a>
+        <ul class="mm-submenu level2">
+                                                            <li class="item ui-menu-item">
+                                                            <a href="http://localhost/lok/git-projects/native-barn/lingerie/babydolls-slips/bralettes-1.html">Bralettes</a>
+                                                                                    <ul class="mm-submenu level3 vm-static"
+                            data-mage-init='{"subMenuViewMode": {}}'>
+                                                                                </ul>
+                                    </li>
+                                                            <li class="item ui-menu-item">
+                                                            <a href="http://localhost/lok/git-projects/native-barn/lingerie/babydolls-slips/unlined.html">Unlined</a>
+                                                                                    <ul class="mm-submenu level3 vm-static"
+                            data-mage-init='{"subMenuViewMode": {}}'>
+                                                                                </ul>
+                                    </li>
+                                                            <li class="item ui-menu-item">
+                                                            <a href="http://localhost/lok/git-projects/native-barn/lingerie/babydolls-slips/lightly-lined.html">Lightly Lined</a>
+                                                                                    <ul class="mm-submenu level3 vm-static"
+                            data-mage-init='{"subMenuViewMode": {}}'>
+                                                                                </ul>
+                                    </li>
+                                                            <li class="item ui-menu-item">
+                                                            <a href="http://localhost/lok/git-projects/native-barn/lingerie/babydolls-slips/perfect-coverage.html">Perfect Coverage</a>
+                                                                                    <ul class="mm-submenu level3 vm-static"
+                            data-mage-init='{"subMenuViewMode": {}}'>
+                                                                                </ul>
+                                    </li>
+                                                            <li class="item ui-menu-item">
+                                                            <a href="http://localhost/lok/git-projects/native-barn/lingerie/babydolls-slips/push-up.html">Push-Up</a>
+                                                                                    <ul class="mm-submenu level3 vm-static"
+                            data-mage-init='{"subMenuViewMode": {}}'>
+                                                                                </ul>
+                                    </li>
+                                                            <li class="item ui-menu-item">
+                                                            <a href="http://localhost/lok/git-projects/native-barn/lingerie/babydolls-slips/lounge-wireless.html">Lounge & Wireless</a>
+                                                                                    <ul class="mm-submenu level3 vm-static"
+                            data-mage-init='{"subMenuViewMode": {}}'>
+                                                                                </ul>
+                                    </li>
+                    </ul>
+    </li>
+</ul></div><div class="col-sm-3 ">
+    <ul class="mm-submenu level1">
+    <li class="item ui-menu-item">
+                <a href="http://localhost/lok/git-projects/native-barn/lingerie/teddies-bodysuits.html">
+                        Teddies & Bodysuits        </a>
+        <ul class="mm-submenu level2">
+                                                            <li class="item ui-menu-item">
+                                                            <a href="http://localhost/lok/git-projects/native-barn/lingerie/teddies-bodysuits/strapless.html">Strapless</a>
+                                                                                    <ul class="mm-submenu level3 vm-static"
+                            data-mage-init='{"subMenuViewMode": {}}'>
+                                                                                </ul>
+                                    </li>
+                                                            <li class="item ui-menu-item">
+                                                            <a href="http://localhost/lok/git-projects/native-barn/lingerie/teddies-bodysuits/sport-bras.html">Sport Bras</a>
+                                                                                    <ul class="mm-submenu level3 vm-static"
+                            data-mage-init='{"subMenuViewMode": {}}'>
+                                                                                </ul>
+                                    </li>
+                                                            <li class="item ui-menu-item">
+                                                            <a href="http://localhost/lok/git-projects/native-barn/lingerie/teddies-bodysuits/beauty-accessories.html">Beauty & Accessories</a>
+                                                                                    <ul class="mm-submenu level3 vm-static"
+                            data-mage-init='{"subMenuViewMode": {}}'>
+                                                                                </ul>
+                                    </li>
+                    </ul>
+    </li>
+</ul></div></div><div class="row">
+    <div class="col-sm-9 ">
+    <div class="static-block">
+    <div class="menu-block-3">
+    <a class="menu-banner" href="http://localhost/lok/git-projects/native-barn/lingerie.html">
+        <img src="http://localhost/lok/git-projects/native-barn/pub/static/frontend/TemplateMonster/theme007/en_US/images/media/img_12_layout_2.jpg"/>
+    </a>
+    <a class="menu-banner" href="http://localhost/lok/git-projects/native-barn/sleep.html">
+        <img src="http://localhost/lok/git-projects/native-barn/pub/static/frontend/TemplateMonster/theme007/en_US/images/media/img_13_layout_2.jpg"/>
+    </a>
+</div></div></div></div>        </div>
+</div></li><li  class="level0 nav-4 level-top  parent"><a href="http://localhost/lok/git-projects/native-barn/sleep.html"  class="level-top " ><span>Sleep</span></a><ul class="level0 submenu rd-navbar-dropdown"><li  class="level1 nav-4-1 first"><a href="http://localhost/lok/git-projects/native-barn/sleep/pajamas.html" ><span>Pajamas</span></a></li><li  class="level1 nav-4-2"><a href="http://localhost/lok/git-projects/native-barn/sleep/sleepshirts.html" ><span>Sleepshirts</span></a></li><li  class="level1 nav-4-3"><a href="http://localhost/lok/git-projects/native-barn/sleep/robes-slippers.html" ><span>Robes &amp; Slippers</span></a></li><li  class="level1 nav-4-4"><a href="http://localhost/lok/git-projects/native-barn/sleep/shorts.html" ><span>Shorts</span></a></li><li  class="level1 nav-4-5 last"><a href="http://localhost/lok/git-projects/native-barn/sleep/loungewear.html" ><span>Loungewear</span></a></li></ul></li><li  class="level0 nav-5 level-top  parent"><a href="http://localhost/lok/git-projects/native-barn/beauty.html"  class="level-top " ><span>Beauty</span></a>
+<!-- For sidebar menu: add class "in-sidebar" to "tm-megamenu" div -->
+
+<div class="tm-megamenu megamenu-wrapper submenu  rd-navbar-megamenu">
+        <div class="container ">
+            <div class="row">
+    <div class="col-sm-3 ">
+    <ul class="mm-submenu level1">
+    <li class="item ui-menu-item">
+                <a href="http://localhost/lok/git-projects/native-barn/beauty/mists.html">
+                        Mists        </a>
+        <ul class="mm-submenu level2">
+                                                            <li class="item ui-menu-item">
+                                                            <a href="http://localhost/lok/git-projects/native-barn/beauty/mists/bralettes-2.html">Bralettes</a>
+                                                                                    <ul class="mm-submenu level3 vm-static"
+                            data-mage-init='{"subMenuViewMode": {}}'>
+                                                                                </ul>
+                                    </li>
+                                                            <li class="item ui-menu-item">
+                                                            <a href="http://localhost/lok/git-projects/native-barn/beauty/mists/unlined.html">Unlined</a>
+                                                                                    <ul class="mm-submenu level3 vm-static"
+                            data-mage-init='{"subMenuViewMode": {}}'>
+                                                                                </ul>
+                                    </li>
+                                                            <li class="item ui-menu-item">
+                                                            <a href="http://localhost/lok/git-projects/native-barn/beauty/mists/lightly-lined.html">Lightly Lined</a>
+                                                                                    <ul class="mm-submenu level3 vm-static"
+                            data-mage-init='{"subMenuViewMode": {}}'>
+                                                                                </ul>
+                                    </li>
+                                                            <li class="item ui-menu-item">
+                                                            <a href="http://localhost/lok/git-projects/native-barn/beauty/mists/perfect-coverage.html">Perfect Coverage</a>
+                                                                                    <ul class="mm-submenu level3 vm-static"
+                            data-mage-init='{"subMenuViewMode": {}}'>
+                                                                                </ul>
+                                    </li>
+                                                            <li class="item ui-menu-item">
+                                                            <a href="http://localhost/lok/git-projects/native-barn/beauty/mists/push-up.html">Push-Up</a>
+                                                                                    <ul class="mm-submenu level3 vm-static"
+                            data-mage-init='{"subMenuViewMode": {}}'>
+                                                                                </ul>
+                                    </li>
+                                                            <li class="item ui-menu-item">
+                                                            <a href="http://localhost/lok/git-projects/native-barn/beauty/mists/lounge-wireless.html">Lounge & Wireless</a>
+                                                                                    <ul class="mm-submenu level3 vm-static"
+                            data-mage-init='{"subMenuViewMode": {}}'>
+                                                                                </ul>
+                                    </li>
+                    </ul>
+    </li>
+</ul></div><div class="col-sm-3 ">
+    <ul class="mm-submenu level1">
+    <li class="item ui-menu-item">
+                <a href="http://localhost/lok/git-projects/native-barn/beauty/body-care.html">
+                        Body Care        </a>
+        <ul class="mm-submenu level2">
+                                                            <li class="item ui-menu-item">
+                                                            <a href="http://localhost/lok/git-projects/native-barn/beauty/body-care/strapless.html">Strapless</a>
+                                                                                    <ul class="mm-submenu level3 vm-static"
+                            data-mage-init='{"subMenuViewMode": {}}'>
+                                                                                </ul>
+                                    </li>
+                                                            <li class="item ui-menu-item">
+                                                            <a href="http://localhost/lok/git-projects/native-barn/beauty/body-care/sport-bras.html">Sport Bras</a>
+                                                                                    <ul class="mm-submenu level3 vm-static"
+                            data-mage-init='{"subMenuViewMode": {}}'>
+                                                                                </ul>
+                                    </li>
+                                                            <li class="item ui-menu-item">
+                                                            <a href="http://localhost/lok/git-projects/native-barn/beauty/body-care/underwire-bras.html">Underwire Bras</a>
+                                                                                    <ul class="mm-submenu level3 vm-static"
+                            data-mage-init='{"subMenuViewMode": {}}'>
+                                                                                </ul>
+                                    </li>
+                                                            <li class="item ui-menu-item">
+                                                            <a href="http://localhost/lok/git-projects/native-barn/beauty/body-care/non-underwire-bras.html">Non-Underwire Bras</a>
+                                                                                    <ul class="mm-submenu level3 vm-static"
+                            data-mage-init='{"subMenuViewMode": {}}'>
+                                                                                </ul>
+                                    </li>
+                                                            <li class="item ui-menu-item">
+                                                            <a href="http://localhost/lok/git-projects/native-barn/beauty/body-care/nursing-bras.html">Nursing Bras</a>
+                                                                                    <ul class="mm-submenu level3 vm-static"
+                            data-mage-init='{"subMenuViewMode": {}}'>
+                                                                                </ul>
+                                    </li>
+                                                            <li class="item ui-menu-item">
+                                                            <a href="http://localhost/lok/git-projects/native-barn/beauty/body-care/junior-bras.html">Junior Bras</a>
+                                                                                    <ul class="mm-submenu level3 vm-static"
+                            data-mage-init='{"subMenuViewMode": {}}'>
+                                                                                </ul>
+                                    </li>
+                    </ul>
+    </li>
+</ul></div><div class="col-sm-3 ">
+    <ul class="mm-submenu level1">
+    <li class="item ui-menu-item">
+                <a href="http://localhost/lok/git-projects/native-barn/beauty/fragrance.html">
+                        Fragrance        </a>
+        <ul class="mm-submenu level2">
+                                                            <li class="item ui-menu-item">
+                                                            <a href="http://localhost/lok/git-projects/native-barn/beauty/fragrance/lightly-lined.html">Lightly Lined</a>
+                                                                                    <ul class="mm-submenu level3 vm-static"
+                            data-mage-init='{"subMenuViewMode": {}}'>
+                                                                                </ul>
+                                    </li>
+                    </ul>
+    </li>
+</ul></div><div class="col-sm-3 ">
+    <div class="product">
+    <div class="product-image">
+        <a href="http://localhost/lok/git-projects/native-barn/weekday-stella-triangle-bra.html">
+            <img src="http://localhost/lok/git-projects/native-barn/pub/media/catalog/product//w/e/weekday_stella_triangle_bra.jpg" alt="">
+        </a>
+    </div>
+    <div class="price-box">
+        <div class="price-box price-final_price" data-role="priceBox" data-product-id="160">
+    
+
+<span class="price-container price-final_price tax weee"
+         itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+        <span  id="product-price-160"                data-price-amount="63"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+         itemprop="price"        content="63">
+        <span class="price">$63.00</span>    </span>
+                <meta itemprop="priceCurrency" content="USD" />
+    </span>
+
+</div>    </div>
+    <strong class="product-name"><a href="http://localhost/lok/git-projects/native-barn/weekday-stella-triangle-bra.html"> Weekday Stella Triangle Bra </a></strong>
+</div>
+</div></div>        </div>
+</div></li><li  class="level0 nav-6 level-top  parent"><a href="http://localhost/lok/git-projects/native-barn/sale-specials.html"  class="level-top " ><span>Sale &amp; Specials</span></a><ul class="level0 submenu rd-navbar-dropdown"><li  class="level1 nav-6-1 first"><a href="http://localhost/lok/git-projects/native-barn/sale-specials/bras-pantibras-panties.html" ><span>Bras PantiBras Panties</span></a></li><li  class="level1 nav-6-2"><a href="http://localhost/lok/git-projects/native-barn/sale-specials/sleep.html" ><span>Sleep</span></a></li><li  class="level1 nav-6-3 last"><a href="http://localhost/lok/git-projects/native-barn/sale-specials/beauty-accessories.html" ><span>Beauty &amp; Accessories</span></a></li></ul></li><li  class="level0 nav-7 last level-top "><a href="http://localhost/lok/git-projects/native-barn/blog/"  class="level-top " ><span>Blog</span></a></li>            </ul>
+                    </div>
+    </nav>
+

@@ -1,0 +1,1 @@
+D:/xamp/htdocs/lok/git-projects/native-barn/app/code/TemplateMonster/GoogleMap/view/frontend/web/js/google-map-page-plugin.js

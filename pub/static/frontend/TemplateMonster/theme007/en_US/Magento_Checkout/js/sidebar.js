@@ -1,0 +1,1 @@
+D:/xamp/htdocs/lok/git-projects/native-barn/vendor/magento/module-checkout/view/frontend/web/js/sidebar.js

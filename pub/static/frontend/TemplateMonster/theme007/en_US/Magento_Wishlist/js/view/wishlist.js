@@ -1,0 +1,1 @@
+D:/xamp/htdocs/lok/git-projects/native-barn/vendor/magento/module-wishlist/view/frontend/web/js/view/wishlist.js

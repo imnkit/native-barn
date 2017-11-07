@@ -1,0 +1,1 @@
+D:/xamp/htdocs/lok/git-projects/native-barn/app/code/TemplateMonster/FilmSlider/view/frontend/web/js/jquery.sliderPro.js

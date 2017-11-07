@@ -1,0 +1,31 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1510030815;s:6:"expire";i:1510034415;s:4:"tags";s:67:"444_BLOCK_HTML,444_CATALOG_PRODUCT_149,444_CATALOG_PRODUCT,444_MAGE";}
+<div class="price-box price-final_price" data-role="priceBox" data-product-id="149">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price tax weee"
+         itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-149-widget-new-grid"                data-price-amount="18"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+         itemprop="price"        content="18">
+        <span class="price">$18.00</span>    </span>
+                <meta itemprop="priceCurrency" content="USD" />
+    </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-149-widget-new-grid"                data-price-amount="22"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+                content="22">
+        <span class="price">$22.00</span>    </span>
+        </span>
+    </span>
+
+</div>
