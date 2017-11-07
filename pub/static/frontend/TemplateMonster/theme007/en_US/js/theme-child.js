@@ -1,1 +1,0 @@
-D:/xamp/htdocs/lok/git-projects/native-barn/app/design/frontend/TemplateMonster/theme007/web/js/theme-child.js

@@ -1,1 +1,0 @@
-D:/xamp/htdocs/lok/git-projects/native-barn/app/code/TemplateMonster/NewsletterPopup/view/frontend/web/js/popup.js

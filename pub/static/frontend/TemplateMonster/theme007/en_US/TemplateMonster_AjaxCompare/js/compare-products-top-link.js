@@ -1,1 +1,0 @@
-D:/xamp/htdocs/lok/git-projects/native-barn/app/code/TemplateMonster/AjaxCompare/view/frontend/web/js/compare-products-top-link.js

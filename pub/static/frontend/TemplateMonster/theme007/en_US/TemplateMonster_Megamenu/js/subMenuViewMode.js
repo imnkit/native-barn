@@ -1,1 +1,0 @@
-D:/xamp/htdocs/lok/git-projects/native-barn/app/code/TemplateMonster/Megamenu/view/frontend/web/js/subMenuViewMode.js
