@@ -13,10 +13,11 @@
     }
     .title {
       @include make-col();
-      font-size: 35px;
+      font-size: 31px;
       line-height: 1;
       color: $white;
       margin-bottom: 30px;
+      font-family: 'Arapey', serif;
       strong {
         font-weight: 600;
         display: block;

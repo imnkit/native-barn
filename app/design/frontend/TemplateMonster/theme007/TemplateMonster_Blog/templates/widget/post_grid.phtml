@@ -51,7 +51,7 @@ $itemWidth = $block->getPostAmountPerRow() ? sprintf('flex-basis: %1$.2f%%; -web
 
                             <!-- Metadata -->
                             <div class="post-data">
-                                <?php if ($post->getCommentsEnabled()) : ?>
+                                <?php /* if ($post->getCommentsEnabled()) : ?>
                                     <span class="post-comments">
                                     <?php if ($post->getApprovedComments()->count() > 0): ?>
                                         <a href="<?php echo $this->getPostUrl($post); ?>#post-comments">
@@ -61,24 +61,24 @@ $itemWidth = $block->getPostAmountPerRow() ? sprintf('flex-basis: %1$.2f%%; -web
                                         </a>
                                     <?php else: ?>
                                         <span class="count no-comment">
-                                            <?php /* @escapeNotVerified */ echo '0'; ?>
+                                            <?php echo '0'; ?>
                                         </span>
                                     <?php endif; ?>
                                 </span>
-                                <?php endif; ?>
-                                <span class="create-date material-icons-access_time">
+                                <?php endif; */ ?>
+                                <span class="create-date">
                                 <time><?php echo date($dateFormat, strtotime($post->getCreationTime()));?></time>
                             </span>
                                 <?php if ($author = $post->getAuthor()): ?>
-                                    <span class="post-author material-icons-person">
-                                    <span class="label"><?php echo __('by '); ?></span>
+                                    <span class="post-author">
+                                    <!-- <span class="label"><?php echo __('by '); ?></span> -->
                                     <span class="author"><?php echo $author; ?></span>
                                 </span>
                                 <?php endif; ?>
                             </div>
-                            <a href="<?php echo $this->getPostUrl($post); ?>" class="post-button">
-                                <span><?php /* @escapeNotVerified */ echo __('Read More'); ?></span>
-                            </a>
+                            <?php /* <a href="<?php echo $this->getPostUrl($post); ?>" class="post-button">
+                                <span><?php echo __('Read More'); ?></span>
+                            </a> */ ?>
 
                         </div>
                     </div>

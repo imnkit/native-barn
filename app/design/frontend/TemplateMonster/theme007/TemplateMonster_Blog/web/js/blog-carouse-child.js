@@ -12,7 +12,7 @@ define([
     $.widget('TemplateMonster.blogCarouselChild', $.TemplateMonster.blogCarousel, {
 
         options: {
-            items: 3,
+            items: 2,
             itemsDesktop:false,
             itemsDesktopSmall: [979, 2],
             itemsTablet: [768, 1],

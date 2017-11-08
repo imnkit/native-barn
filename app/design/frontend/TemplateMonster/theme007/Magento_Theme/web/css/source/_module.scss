@@ -1555,11 +1555,11 @@ $switcher-dropdown-shadow: 0px 5px 27px 0px rgba(0, 0, 0, 0.09);
   }
   &.extra {
     .custom-item-content {
-      left: 15%;
+      left: 50%;
       top: 49%;
-      transform: translate(-15%, -50%);
-      -webkit-transform: translate(-15%, -50%);
-      text-align: left;
+      transform: translate(-50%, -50%);
+      -webkit-transform: translate(-50%, -50%);
+      text-align: center;
     }
   }
   img {

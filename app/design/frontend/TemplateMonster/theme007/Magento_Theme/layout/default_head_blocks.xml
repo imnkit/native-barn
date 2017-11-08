@@ -13,5 +13,7 @@
         <css src="css/linearicons.css" />
         <css src="css/modules.css" />
         <css src="css/style.css" />
+        <css src="//fonts.googleapis.com/css?family=Arapey:400,400i" src_type="url"/>
+        
     </head>
 </page>
